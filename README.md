@@ -25,6 +25,6 @@
 <div>
     <h4>Admin credentials :</h4>
     <p>email : monzur.cseuap@yahoo.com</p>
-    <p>password : test1234</p>
+    <p>password : test-1000</p>
     User : You can create yourself.
 </div>
